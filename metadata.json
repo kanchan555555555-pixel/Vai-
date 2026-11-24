@@ -1,0 +1,6 @@
+{
+  "name": "HotCast TV",
+  "description": "Offline TV media casting app over local Wi-Fi Hotspot (DLNA & TV Web Receiver) with zero internet required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
